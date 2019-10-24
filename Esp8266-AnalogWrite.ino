@@ -1,7 +1,3 @@
-/*
- * Copyright (c) 2015, circuits4you.com
- * All rights reserved.
-/* Generates PWM on Internal LED Pin GPIO 2 of ESP8266*/
 
 #include <ESP8266WiFi.h>
  
