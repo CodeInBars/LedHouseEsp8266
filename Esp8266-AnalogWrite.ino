@@ -3,8 +3,8 @@
  
 
 //Network credentials
-const char* ssid     = "MIWIFI_2G_hFDu";
-const char* password = "NjTZ+ERd=*+6dG_";
+const char* ssid     = "";
+const char* password = "";
 
 // Set web server port number to 80
 WiFiServer server(80);
